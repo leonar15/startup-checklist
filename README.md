@@ -15,7 +15,7 @@ Some notes:
 - For brevity, Delaware and California are shortened to **DE** and **CA**
 
 # The checklist
-#### Registering with DE
+#### Register with DE
 - [ ] Choose a name for your business and check that it's available. [DE Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) & [CA Name Search](http://kepler.sos.ca.gov/)
 - [ ] Generate incorporation documents and sign them [[service]](#free-res1)
 - [ ] Buy registered agent service in DE - **1 yr Free**
@@ -34,7 +34,7 @@ Some notes:
 
 **NOTE:** Most of the following steps require a valid U.S. checking account and the steps above allow you to open an account. This is probably the best time to do so.
 
-#### Registering with CA
+#### Register with CA
 - [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
   - Fill out [DE fillable form](https://corp.delaware.gov/certmemo.pdf) and fax to (302) 739-3812
 - [ ] Sign up for Registered agent service in CA **1 yr free**
@@ -45,7 +45,7 @@ Some notes:
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-350) - **$25**
   - [Form SI-350](https://businessfilings.sos.ca.gov/) 
   
-#### Setting up payroll tax payments with IRS and CA
+#### Set up payroll tax payments with IRS and CA
 
 - [ ] Sign up to make IRS payroll tax payments electronically - **Free**
   - Enroll via phone call to IRS 1-800-555-3453 
@@ -81,8 +81,8 @@ Some notes:
 ## <a name=resources></a>Resources
 ### Free or mostly-free resources
 1. <a name=free-res1></a>[Founder's Workbench](http://www.foundersworkbench.com/document-driver/) - generate incorporation documents
-2. <a name=free-res2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) one year of free registered agent service in DE and/or CA
-3. <a name=free-res3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) send faxes without a fax machine
+2. <a name=free-res2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
+3. <a name=free-res3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
 
 ### <a name=nonfree-resources></a>Non-free resources
-1. <a name=res1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) will file DE papers quickly on your behalf for ~$150, including state fees
+1. <a name=res1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
