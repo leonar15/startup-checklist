@@ -39,11 +39,13 @@ Some notes:
   - Fill out [DE fillable form](https://corp.delaware.gov/certmemo.pdf) and fax to (302) 739-3812
 - [ ] Sign up for Registered agent service in CA **1 yr free**
 - [ ] Register with CA Secretary of State - **$100**
-  - Fill out [Form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
+  - Fill out [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
   - Make sure **NOT** to include mailing address for registered agent
   - Include *DE Certificate of Good Standing* with mailed form
+- [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
+  - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-350) - **$25**
-  - [Form SI-350](https://businessfilings.sos.ca.gov/) 
+  - [CA form SI-350](https://businessfilings.sos.ca.gov/) 
   
 #### Set up payroll tax payments with IRS and CA
 
