@@ -1,5 +1,5 @@
 # Startup Incorporation Checklist
-#### How to bootstrap a Delaware c-corp (or s-corp) with employee(s) in California
+#### How to bootstrap a Delaware C-corp (or S-corp) with employee(s) in California
 
 **Disclaimer:** I am not a lawyer (IANAL). This list is intended as a learning tool and you should *definitely* consult with a lawyer if you have any questions or concerns. This is a work in progress, so suggestions and pull requests are welcome! 
 
