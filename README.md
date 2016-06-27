@@ -54,7 +54,7 @@ Some notes:
   - Set password via [EFTPS password form](https://www.eftps.gov/eftps/login/forgotPassword)
   - Confirm enrollment via [EFTPS login form](https://www.eftps.gov/eftps/login/loginInitial)
 - [ ] Register with CA Employer Development Department (CA EDD) - **Free**
-  - [CA EDD Enrollment](https://eddservices.edd.ca.gov/acctservices/AccountManagement/AccountServlet)
+  - [CA EDD Enrollment](http://www.edd.ca.gov/Payroll_Taxes/e-Services_for_Business.htm)
 - [ ] Sign up with Social Security Business Services - **Free**
   - guide: https://support.waveapps.com/entries/60125574-Social-Security-Business-Services-Online-Registration-Guide
   - form: https://www.ssa.gov/bso/bsowelcome.htm
