@@ -1,7 +1,7 @@
 # Startup Incorporation Checklist
 #### How to bootstrap a Delaware c-corp (or s-corp) with employee(s) in California
 
-**Disclaimer:** I am not a lawyer (IANAL) and may have missed something. This is intended as a learning tool and you should *definitely* consult a lawyer if you have any questions or concerns. This is a work in progress, so suggestions and pull requests are welcome! 
+**Disclaimer:** I am not a lawyer (IANAL). This list is intended as a learning tool and you should *definitely* consult with a lawyer if you have any questions or concerns. This is a work in progress, so suggestions and pull requests are welcome! 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -12,12 +12,12 @@ Some notes:
 - The full process will take several weeks to complete
 - Most steps are sequential and depend on an earlier step being complete
 - Many steps require the use of snail mail or a [fax machine](#resources)
-- For brevity, Delaware and California are shortened to **DE** and **CA**
+- For brevity, Delaware and California are shortened to *DE* and *CA*
 
 # The checklist
 #### Register with DE
 - [ ] Choose a name for your business and check that it's available. [DE Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) & [CA Name Search](http://kepler.sos.ca.gov/)
-- [ ] Generate incorporation documents and sign them [[service]](#free-res1)
+- [ ] Generate incorporation documents and sign them [[service]](#free-tool1)
 - [ ] Buy registered agent service in DE - **1 yr Free**
 - [ ] File incorporation docs with DE - **~$150 including fees for 1 week service**
   - You can do this yourself, but it will probably take longer and not save you much money
@@ -80,11 +80,15 @@ Some notes:
 - [ ] *yearly* File W3 with IRS
 - [ ] *yearly* Send 1099 to contractors, lawyers, et. al.
 
-## <a name=resources></a>Resources
-### Free or mostly-free resources
-1. <a name=free-res1></a>[Founder's Workbench](http://www.foundersworkbench.com/document-driver/) - generate incorporation documents
-2. <a name=free-res2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
+## <a name=tools></a>Tools & References
+### Free or mostly-free tools
+1. <a name=free-tool1></a>[Founder's Workbench](http://www.foundersworkbench.com/document-driver/) - generate incorporation documents
+2. <a name=free-tool2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
 3. <a name=free-res3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
 
-### <a name=nonfree-resources></a>Non-free resources
+### <a name=nonfree-tools></a>Non-free tools
 1. <a name=res1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
+
+### References
+* **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
+* **Q:** Why incorporate in DE? [Answer](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware)
