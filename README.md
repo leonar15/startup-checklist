@@ -30,6 +30,7 @@ Some notes:
 - [ ] *(for founders with stock vesting)* File 83b election within 30 days of stock grant
   - reference: https://www.irs.gov/irb/2012-28_IRB/ar12.html
   - example letter: http://accountalent.com/83b-elections-for-dummies/
+  - include 2 extra signed copies and self-addressed stamped return envelope
 - [ ] *(only for S-corp)* File IRS Form 2553 to convert C-corp to S-corp
   - [IRS Form 2553](https://www.irs.gov/pub/irs-pdf/f2553.pdf)
 
@@ -39,14 +40,14 @@ Some notes:
 - [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
   - Fill out [DE fillable form](https://corp.delaware.gov/certmemo.pdf) and fax to (302) 739-3812
 - [ ] Sign up for Registered agent service in CA **1 yr free**
-- [ ] Register with CA Secretary of State - **$100**
+- [ ] Register your *foreign entity* with CA Secretary of State - **$100**
   - Fill out [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
   - Make sure **NOT** to include mailing address for registered agent
   - Include *DE Certificate of Good Standing* with mailed form
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-350) - **$25**
-  - [CA form SI-350](https://businessfilings.sos.ca.gov/) 
+  - [CA form SI-350](https://businessfilings.sos.ca.gov/)
   
 #### Set up payroll tax payments with IRS and CA
 
@@ -75,7 +76,9 @@ Some notes:
   - *(LLC-only)* depends on ownership structure, but partnerships must distribute [IRS Schedule K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf) to each owner
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $350**
   -  https://corp.delaware.gov/paytaxes.shtml
-- [ ] *yearly* File CA tax return
+- [ ] *yearly* File CA tax return **>= $800**
+  - First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
+  - File and pay via [CA Franchise Tax Board (FTB)](https://www.ftb.ca.gov/online/webpay/Business_Entities.asp)
 - [ ] *yearly* Send W2 to employees
 - [ ] *yearly* File W3 with IRS
 - [ ] *yearly* Send 1099 to contractors, lawyers, et. al.
@@ -93,3 +96,10 @@ Some notes:
 ### References
 * **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
 * **Q:** Why incorporate in DE? [Answer](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware)
+
+## Known unknowns
+- Sales taxes
+- Generate *Terms of Service*, *Privacy Policy*, etc (Docracy.com has some good templates
+- Liability insurance
+- Start using bookkeeping software right away to track expenses, income, etc. Lots of free/affordable options
+
