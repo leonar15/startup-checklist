@@ -99,7 +99,7 @@ Some notes:
 
 ## Known unknowns
 - Sales taxes
-- Generate *Terms of Service*, *Privacy Policy*, etc (Docracy.com has some good templates
+- Generate *Terms of Service*, *Privacy Policy*, etc ([Docracy.com](http://www.docracy.com/) has some good templates)
 - Liability insurance
 - Start using bookkeeping software right away to track expenses, income, etc. Lots of free/affordable options
 
