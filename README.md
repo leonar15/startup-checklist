@@ -11,7 +11,7 @@ Other than building a product people want, incorporating a new business is essen
 Some notes:
 - The full process will take several weeks to complete
 - Most steps are sequential and depend on an earlier step being complete
-- Many steps require the use of snail mail or a [fax machine](#resources)
+- Many steps require the use of snail mail or a [fax machine](#tools)
 - For brevity, Delaware and California are shortened to *DE* and *CA*
 - Again, consult your lawyer. Some will defer fees for startups
 
@@ -87,7 +87,7 @@ Some notes:
 3. <a name=free-res3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
 
 ### <a name=nonfree-tools></a>Non-free tools
-1. <a name=res1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
+1. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
 
 ### References
 * **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
