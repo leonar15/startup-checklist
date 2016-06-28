@@ -47,6 +47,8 @@ Some notes:
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-350) - **$25**
   - [CA form SI-350](https://businessfilings.sos.ca.gov/) 
+
+**NOTE:** This section only applies to companies that are doing business in California - similar requirements will apply for other states.
   
 #### Set up payroll tax payments with IRS and CA
 
@@ -88,7 +90,8 @@ Some notes:
 4. <a name=free-tool4></a>[Wave](https://www.waveapps.com/) - free accounting software, with extra services for $fee
 
 ### <a name=nonfree-tools></a>Non-free tools
-1. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
+1. <a name=tool2></a>[Clerky](https://www.clerky.com/offerings#company-formation) - software to handle the complete set of company formation paperwork online (incorporation, appointing directors and officers, issuing stock, protecting IP, etc.)
+2. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
 
 ### References
 * **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
