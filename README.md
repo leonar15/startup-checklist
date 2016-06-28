@@ -66,9 +66,9 @@ Some notes:
 ## Recurring items
 
 - [ ] *varies* File and pay CA payroll taxes
-  - CA EDD website
+  - [CA EDD website](https://eddservices.edd.ca.gov/tap/secure/eservices)
 - [ ] *varies* File and pay Federal payroll taxes
-  - EFTPS website
+  - [EFTPS website](https://www.eftps.gov/eftps/login/loginInitial)
 - [ ] *yearly* File federal tax return
   - *(S-corp only)* File [IRS Form 1120S](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120s.pdf))
   - *(C-corp only)* File [IRS Form 1120](https://www.irs.gov/pub/irs-pdf/f1120.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120.pdf))
