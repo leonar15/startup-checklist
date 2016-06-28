@@ -6,13 +6,14 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ##### Intro
-Other than building a product people want, incorporating a new business is essential to raising money, opening a bank account, and creating a legal entity for contracts and other liabilities. For technical folks like me, it's the "necessary evil" of founding a company and just needs to get done. Having gone through this recently, I made a checklist in case I'd have to do it again in the near future. Why you should incorporate in DE is outside the scope of this article, but [other resources have good answers](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware).
+Other than building a product people want, incorporating a new business is essential to raising money, opening a bank account, and creating a legal entity for contracts and other liabilities. For technical folks like me, it's the "necessary evil" of founding a company and just needs to get done. Having gone through this recently, I made a checklist in case I'd have to do it again in the near future. Why you should incorporate in DE is outside the scope of this article, but [other folks have written good answers](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware).
 
 Some notes:
 - The full process will take several weeks to complete
 - Most steps are sequential and depend on an earlier step being complete
 - Many steps require the use of snail mail or a [fax machine](#resources)
 - For brevity, Delaware and California are shortened to *DE* and *CA*
+- Again, consult your lawyer. Some will defer fees for startups
 
 # The checklist
 #### Register with DE
@@ -60,21 +61,20 @@ Some notes:
 - [ ] Sign up with Social Security Business Services - **Free**
   - guide: https://support.waveapps.com/entries/60125574-Social-Security-Business-Services-Online-Registration-Guide
   - form: https://www.ssa.gov/bso/bsowelcome.htm
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 
 ## Recurring items
 
-- [ ] *yearly* File DE annual report and pay franchise tax **>= $350**
-  -  https://corp.delaware.gov/paytaxes.shtml
 - [ ] *varies* File and pay CA payroll taxes
   - CA EDD website
 - [ ] *varies* File and pay Federal payroll taxes
   - EFTPS website
 - [ ] *yearly* File federal tax return
+  - *(S-corp only)* File [IRS Form 1120S](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120s.pdf))
+  - *(C-corp only)* File [IRS Form 1120](https://www.irs.gov/pub/irs-pdf/f1120.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120.pdf))
+  - *(LLC-only)* depends on ownership structure, but partnerships must distribute [IRS Schedule K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf) to each owner
+- [ ] *yearly* File DE annual report and pay franchise tax **>= $350**
+  -  https://corp.delaware.gov/paytaxes.shtml
 - [ ] *yearly* File CA tax return
 - [ ] *yearly* Send W2 to employees
 - [ ] *yearly* File W3 with IRS
