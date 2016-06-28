@@ -37,6 +37,8 @@ Some notes:
 **NOTE:** Most of the following steps require a valid U.S. checking account and the steps above allow you to open an account. This is probably the best time to do so.
 
 #### Register with CA
+**NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
+
 - [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
   - Fill out [DE fillable form](https://corp.delaware.gov/certmemo.pdf) and fax to (302) 739-3812
 - [ ] Sign up for Registered agent service in CA **1 yr free**
@@ -48,9 +50,10 @@ Some notes:
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-350) - **$25**
   - [CA form SI-350](https://businessfilings.sos.ca.gov/)
+
+
   
 #### Set up payroll tax payments with IRS and CA
-
 - [ ] Sign up to make IRS payroll tax payments electronically - **Free**
   - Enroll via phone call to IRS 1-800-555-3453 
     - have your EFTPS Pin and checking account info handy
@@ -91,7 +94,8 @@ Some notes:
 4. <a name=free-tool4></a>[Wave](https://www.waveapps.com/) - free accounting software, with extra services for $fee
 
 ### <a name=nonfree-tools></a>Non-free tools
-1. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
+1. <a name=tool2></a>[Clerky](https://www.clerky.com/offerings#company-formation) - software to handle the complete set of company formation paperwork online (incorporation, appointing directors and officers, issuing stock, protecting IP, etc.)
+2. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
 
 ### References
 * **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
