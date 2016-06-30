@@ -18,7 +18,7 @@ Some notes:
 # The checklist
 #### Register with DE
 - [ ] Choose a name for your business and check that it's available. [DE Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) & [CA Name Search](http://kepler.sos.ca.gov/)
-- [ ] Generate incorporation documents and sign them [[service]](#free-tool1)
+- [ ] Generate incorporation documents and sign them [[free document service]](#free-tool1)
 - [ ] Buy registered agent service in DE - **1 yr Free**
 - [ ] File incorporation docs with DE - **~$150 including fees for 1 week service**
   - You can do this yourself, but it will probably take longer and not save you much money
