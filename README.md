@@ -70,7 +70,8 @@ Some notes:
 ## Recurring items
 
 - [ ] *varies* File and pay CA payroll taxes
-  - [CA EDD website](https://eddservices.edd.ca.gov/tap/secure/eservices)
+  - *quarterly* eFile [CA Form DE9](http://www.edd.ca.gov/pdf_pub_ctr/de9.pdf) & [CA Form DE9C](http://www.edd.ca.gov/pdf_pub_ctr/de9c.pdf)
+  - File forms via [CA EDD website](https://eddservices.edd.ca.gov/tap/secure/eservices)
 - [ ] *varies* File and pay Federal payroll taxes
   - Mail or eFile federal tax form (Medicare, Social Security, Federal Income Tax) [(reference)](https://www.irs.gov/taxtopics/tc757.html) [(eFile tool)](#tool3)
     - *quarterly* use [IRS Form 941](https://www.irs.gov/pub/irs-pdf/f941.pdf) [(instructions)](https://www.irs.gov/pub/irs-pdf/i941.pdf)
