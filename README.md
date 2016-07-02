@@ -72,7 +72,10 @@ Some notes:
 - [ ] *varies* File and pay CA payroll taxes
   - [CA EDD website](https://eddservices.edd.ca.gov/tap/secure/eservices)
 - [ ] *varies* File and pay Federal payroll taxes
-  - [EFTPS website](https://www.eftps.gov/eftps/login/loginInitial)
+  - Mail or eFile federal tax form (Medicare, Social Security, Federal Income Tax) [(reference)](https://www.irs.gov/taxtopics/tc757.html) [(eFile tool)](#tool3)
+    - *quarterly* use [IRS Form 941](https://www.irs.gov/pub/irs-pdf/f941.pdf) [(instructions)](https://www.irs.gov/pub/irs-pdf/i941.pdf)
+    - *yearly* use [IRS Form 944](https://www.irs.gov/pub/irs-pdf/f944.pdf) [(instructions)](https://www.irs.gov/pub/irs-pdf/i944.pdf)
+  - Pay via [EFTPS website](https://www.eftps.gov/eftps/index.jsp)
 - [ ] *yearly* File federal tax return
   - *(S-corp only)* File [IRS Form 1120S](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120s.pdf))
   - *(C-corp only)* File [IRS Form 1120](https://www.irs.gov/pub/irs-pdf/f1120.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120.pdf))
@@ -80,22 +83,23 @@ Some notes:
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $350**
   -  https://corp.delaware.gov/paytaxes.shtml
 - [ ] *yearly* File CA tax return **>= $800**
-  - First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
+  - *Note:* First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
   - File and pay via [CA Franchise Tax Board (FTB)](https://www.ftb.ca.gov/online/webpay/Business_Entities.asp)
-- [ ] *yearly* Send W2 to employees
+- [ ] *yearly* Send W2 to employees [(eFile tool)](#tool3)
 - [ ] *yearly* File W3 with IRS
-- [ ] *yearly* Send 1099 to contractors, lawyers, et. al.
+- [ ] *yearly* Send 1099 to contractors, lawyers, et. al. [(eFile tool)](#tool3)
 
 ## <a name=tools></a>Tools & References
 ### Free or mostly-free tools
 1. <a name=free-tool1></a>[Founder's Workbench](http://www.foundersworkbench.com/document-driver/) - generate incorporation documents
 2. <a name=free-tool2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
 3. <a name=free-tool3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
-4. <a name=free-tool4></a>[Wave](https://www.waveapps.com/) - free accounting software, with extra services for $fee
+4. <a name=free-tool4></a>[Wave](https://www.waveapps.com/) - free accounting software, with extra services for a $fee
 
 ### <a name=nonfree-tools></a>Non-free tools
 1. <a name=tool2></a>[Clerky](https://www.clerky.com/offerings#company-formation) - software to handle the complete set of company formation paperwork online (incorporation, appointing directors and officers, issuing stock, protecting IP, etc.)
 2. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
+3. <a name=tool3></a>[Tax1099](https://www.tax1099.com) - e-file federal tax forms (e.g. tax return, 1099, W2, etc), small fee per form
 
 ### References
 * **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
