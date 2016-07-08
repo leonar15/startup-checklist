@@ -49,7 +49,7 @@ Some notes:
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-350) - **$25**
-  - [CA form SI-350](https://businessfilings.sos.ca.gov/)
+    - eFile [CA Form SI-350](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so350.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
 
 
   
@@ -83,6 +83,8 @@ Some notes:
   - *(LLC-only)* depends on ownership structure, but partnerships must distribute [IRS Schedule K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf) to each owner
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $350**
   -  https://corp.delaware.gov/paytaxes.shtml
+- [ ] *yearly* File CA statement of information **$25**
+  - File [CA Form SI-350](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so350.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
 - [ ] *yearly* File CA tax return **>= $800**
   - *Note:* First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
   - File and pay via [CA Franchise Tax Board (FTB)](https://www.ftb.ca.gov/online/webpay/Business_Entities.asp)
