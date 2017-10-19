@@ -40,7 +40,7 @@ Some notes:
 **NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
 
 - [ ] *(optional, see below)* Order certified copy of *Certificate of Good Standing* from DE - **$50**
-  - This is only required if registering in CA more than 6 months after incorporating in DE, otherwise use the "Filed Certificate of Incorporation" signed and stamped by Secretary of DE (document forwarded by DE registered agent following incorporation)
+  - Within 6 months of DE registration, you can use the "Filed Certificate of Incorporation" signed and stamped by Secretary of DE (document forwarded by DE registered agent following incorporation)
   - Fill out [DE fillable form](https://corp.delaware.gov/certmemo.pdf) and fax to (302) 739-3812
 - [ ] Sign up for Registered agent service in CA **1 yr free**
 - [ ] Register your *foreign entity* with CA Secretary of State - **$100**
