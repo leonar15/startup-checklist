@@ -40,7 +40,8 @@ Some notes:
 **NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
 
 - [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
-  - Fill out [DE fillable form](https://corp.delaware.gov/certmemo.pdf) and fax to (302) 739-3812
+  - Fill out [DE fillable form](https://corp.delaware.gov/updatedcertmemoandinstructionsOct717.pdf) and fax to (302) 739-3812. [more info](https://corp.delaware.gov/directweb.shtml)
+  - alternatively, find [an agent with online access](https://corp.delaware.gov/remoteagts.shtml)
 - [ ] Sign up for Registered agent service in CA **1 yr free**
 - [ ] Register your *foreign entity* with CA Secretary of State - **$100**
   - Fill out [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
