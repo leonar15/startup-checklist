@@ -51,7 +51,8 @@ Some notes:
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-550) - **$25**
-    - eFile [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/si-550a.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
+    - eFile [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
+    - *if multiple directors*, also attach [CA Form SI-550A](http://bpd.cdn.sos.ca.gov/corp/pdf/so/si-550a.pdf) if sending by mail
 
 
   
