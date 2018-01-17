@@ -39,18 +39,19 @@ Some notes:
 #### Register with CA
 **NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
 
-- [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
+- [ ] *(optional, see below)* Order certified copy of *Certificate of Good Standing* from DE - **$50**
+  - Within 6 months of DE registration, you can use the "Filed Certificate of Incorporation" signed and stamped by Secretary of DE (document forwarded by DE registered agent following incorporation)
   - Fill out [DE fillable form](https://corp.delaware.gov/updatedcertmemoandinstructionsOct717.pdf) and fax to (302) 739-3812. [more info](https://corp.delaware.gov/directweb.shtml)
-  - alternatively, find [an agent with online access](https://corp.delaware.gov/remoteagts.shtml)
+  - Or, find [an agent with online access](https://corp.delaware.gov/remoteagts.shtml)
 - [ ] Sign up for Registered agent service in CA **1 yr free**
 - [ ] Register your *foreign entity* with CA Secretary of State - **$100**
   - Fill out [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
   - Make sure **NOT** to include mailing address for registered agent
-  - Include *DE Certificate of Good Standing* with mailed form
+  - Include either *Filed Certificate of Incorporation* (signed and stamped by Secretary of DE) or, if registering in CA 6mo+ after incoporation, *DE Certificate of Good Standing* with mailed form
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
-- [ ] Within 90 days of CA registration, file Statement of Information (SI-350) - **$25**
-    - eFile [CA Form SI-350](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so350.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
+- [ ] Within 90 days of CA registration, file Statement of Information (SI-550) - **$25**
+    - eFile [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/si-550a.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
 
 
   
@@ -85,7 +86,7 @@ Some notes:
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $350**
   -  https://corp.delaware.gov/paytaxes.shtml
 - [ ] *yearly* File CA statement of information **$25**
-  - File [CA Form SI-350](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so350.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
+  - File [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
 - [ ] *yearly* File CA tax return **>= $800**
   - *Note:* First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
   - File and pay via [CA Franchise Tax Board (FTB)](https://www.ftb.ca.gov/online/webpay/Business_Entities.asp)
