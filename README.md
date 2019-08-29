@@ -16,7 +16,7 @@ Some notes:
 - Again, consult your lawyer. Some will defer fees for startups
 
 # The checklist
-#### Register with DE
+#### Register with Delaware
 - [ ] Choose a name for your business and check that it's available. [DE Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) & [CA Name Search](https://businesssearch.sos.ca.gov)
 - [ ] Generate incorporation documents and sign them [[free document service]](#free-tool1)
 - [ ] Buy registered agent service in DE - **1 yr Free**
@@ -36,7 +36,7 @@ Some notes:
 
 **NOTE:** Most of the following steps require a valid U.S. checking account and the steps above allow you to open an account. This is probably the best time to do so.
 
-#### Register with CA
+#### Register with California
 **NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
 
 - [ ] *(optional, see below)* Order certified copy of *Certificate of Good Standing* from DE - **$50**
