@@ -100,7 +100,7 @@ Some notes:
 1. <a name=free-tool1></a>[Founder's Workbench](http://www.foundersworkbench.com/document-driver/) - generate incorporation documents
 2. <a name=free-tool2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
 3. <a name=free-tool3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
-4. <a name=free-tool4></a>[Wave](https://www.waveapps.com/) - free accounting software, with extra services for a $fee
+4. <a name=free-tool4></a>[Wave](http://ssqt.co/mQfEVY0) - free accounting software, with extra services for a $fee
 
 ### <a name=nonfree-tools></a>Non-free tools
 1. <a name=tool2></a>[Clerky](https://www.clerky.com/offerings#company-formation) - software to handle the complete set of company formation paperwork online (incorporation, appointing directors and officers, issuing stock, protecting IP, etc.)
