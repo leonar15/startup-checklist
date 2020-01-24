@@ -85,7 +85,7 @@ Some notes:
   - *(C-corp only)* File [IRS Form 1120](https://www.irs.gov/pub/irs-pdf/f1120.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120.pdf))
   - *(LLC-only)* depends on ownership structure, but partnerships must distribute [IRS Schedule K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf) to each owner
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $350**
-  -  https://corp.delaware.gov/paytaxes.shtml
+  -  https://corp.delaware.gov/paytaxes/
 - [ ] *yearly* File CA statement of information **$25**
   - File [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
 - [ ] *yearly* File CA tax return **>= $800**
