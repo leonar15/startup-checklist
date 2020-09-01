@@ -101,6 +101,7 @@ Some notes:
 2. <a name=free-tool2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
 3. <a name=free-tool3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
 4. <a name=free-tool4></a>[Wave](https://www.waveapps.com/) - free accounting software, with extra services for a $fee
+5. <a name=free-tool5></a>[Cooley GO Document Generators](https://www.cooleygo.com/documents/index-document-generators/) - free incorporation package, early-stage financing documents and other common documents needed by startups.
 
 ### <a name=nonfree-tools></a>Non-free tools
 1. <a name=tool2></a>[Clerky](https://www.clerky.com/offerings#company-formation) - software to handle the complete set of company formation paperwork online (incorporation, appointing directors and officers, issuing stock, protecting IP, etc.)
@@ -113,6 +114,8 @@ Some notes:
 ### References
 * **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
 * **Q:** Why incorporate in DE? [Answer](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware)
+* **Q:** What should I look for in a startup lawyer? [Answer](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)
+* **Q:** What is a public benefit corporation and is it right for my company? [Answer](https://www.cooleygo.com/delaware-public-benefit-corporation-is-it-right-for-you-a-five-part-test/)
 
 ## Known unknowns
 - Sales taxes
