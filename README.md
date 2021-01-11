@@ -51,7 +51,7 @@ Some notes:
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-550) - **$25**
-    - eFile [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
+    - eFile [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businesssearch.sos.ca.gov/?filing=corp)
     - *if multiple directors*, also attach [CA Form SI-550A](http://bpd.cdn.sos.ca.gov/corp/pdf/so/si-550a.pdf) if sending by mail
 
 
@@ -87,10 +87,10 @@ Some notes:
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $450**
   -  https://corp.delaware.gov/paytaxes/
 - [ ] *yearly* File CA statement of information **$25**
-  - File [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businessfilings.sos.ca.gov/)
+  - File [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businesssearch.sos.ca.gov/?filing=corp)
 - [ ] *yearly* File CA tax return **>= $800**
   - *Note:* First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
-  - File and pay via [CA Franchise Tax Board (FTB)](https://www.ftb.ca.gov/online/webpay/Business_Entities.asp)
+  - File and pay via [CA Franchise Tax Board (FTB)](https://www.ftb.ca.gov/pay/payment-options.html)
 - [ ] *yearly* Send W2 to employees [(eFile tool)](#tool3)
 - [ ] *yearly* File W3 with IRS
 - [ ] *yearly* Send 1099 to contractors, lawyers, et. al. [(eFile tool)](#tool3)
