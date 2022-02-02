@@ -90,6 +90,7 @@ Some notes:
   - File [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businesssearch.sos.ca.gov/?filing=corp)
 - [ ] *yearly* File CA tax return **>= $800**
   - *Note:* First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
+  - *Note 2:* COVID-19 Relief Bill waives $800 minimum for companies formed between Jan 1, 2021 and Dec 31, 2023 for first taxable year [[ref]](https://www.nolo.com/legal-updates/california-extends-first-year-800-minimum-franchise-tax-exemption-to-llcs-lps-and-llps.html)
   - File and pay via [CA Franchise Tax Board (FTB)](https://www.ftb.ca.gov/pay/payment-options.html)
 - [ ] *yearly* Send W2 to employees [(eFile tool)](#tool3)
 - [ ] *yearly* File W3 with IRS
