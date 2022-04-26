@@ -40,14 +40,13 @@ Some notes:
 **NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
 
 - [ ] *(optional, see below)* Order certified copy of *Certificate of Good Standing* from DE - **$50**
-  - Within 6 months of DE registration, you can use the "Filed Certificate of Incorporation" signed and stamped by Secretary of DE (document forwarded by DE registered agent following incorporation)
   - Use the [DE Document Upload Service](https://icis.corp.delaware.gov/ecorp2/) (only available on [weekdays](https://corp.delaware.gov/document-upload-service-information/)) to request a Certificate. [more info](https://corp.delaware.gov/directweb.shtml)
   - Or, find [an agent with online access](https://corp.delaware.gov/remoteagts.shtml)
 - [ ] Sign up for Registered agent service in CA **1 yr free**
 - [ ] Register your *foreign entity* with CA Secretary of State - **$100**
   - Fill out [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
   - Make sure **NOT** to include mailing address for registered agent
-  - Include either *Filed Certificate of Incorporation* (signed and stamped by Secretary of DE) or, if registering in CA 6mo+ after incoporation, *DE Certificate of Good Standing* with mailed form
+  - Include *DE Certificate of Good Standing* with mailed form
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-550) - **$25**
