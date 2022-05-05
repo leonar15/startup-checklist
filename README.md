@@ -39,12 +39,12 @@ Some notes:
 #### Register with California
 **NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
 
-- [ ] *(optional, see below)* Order certified copy of *Certificate of Good Standing* from DE - **$50**
+- [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
   - Use the [DE Document Upload Service](https://icis.corp.delaware.gov/ecorp2/) (only available on [weekdays](https://corp.delaware.gov/document-upload-service-information/)) to request a Certificate. [more info](https://corp.delaware.gov/directweb.shtml)
   - Or, find [an agent with online access](https://corp.delaware.gov/remoteagts.shtml)
 - [ ] Sign up for Registered agent service in CA **1 yr free**
 - [ ] Register your *foreign entity* with CA Secretary of State - **$100**
-  - Fill out [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
+  - Fill out and eFile [Registration - Out-of-State Corporation - Stock](https://bizfileonline.sos.ca.gov/forms/business) **OR** mail [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
   - Make sure **NOT** to include mailing address for registered agent
   - Include *DE Certificate of Good Standing* with mailed form
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
