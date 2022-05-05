@@ -17,7 +17,7 @@ Some notes:
 
 # The checklist
 #### Register with Delaware
-- [ ] Choose a name for your business and check that it's available. [DE Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) & [CA Name Search](https://businesssearch.sos.ca.gov). In DE a name can be reserved without registering it, so check [DE Name Reservations](https://icis.corp.delaware.gov/Ecorp/NameReserv/NameReservation.aspx) as well.
+- [ ] Choose a name for your business and check that it's available. [DE Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) & [CA Name Search](https://bizfileonline.sos.ca.gov/search/business). In DE a name can be reserved without registering it, so check [DE Name Reservations](https://icis.corp.delaware.gov/Ecorp/NameReserv/NameReservation.aspx) as well.
 - [ ] Generate incorporation documents and sign them [[free document service]](#free-tool1)
 - [ ] Buy registered agent service in DE - **1 yr Free**
 - [ ] File incorporation docs with DE - **~$150 including fees for 1 week service**
