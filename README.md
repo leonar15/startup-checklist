@@ -37,9 +37,7 @@ Some notes:
 **NOTE:** Most of the following steps require a valid U.S. checking account and the steps above allow you to open an account. This is probably the best time to do so.
 
 #### Register with California
-**NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states.
-
-**NOTE2:** Many steps require registration via the [CA Secretary of State bizfile system](https://bizfileonline.sos.ca.gov/).
+**NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states. Many steps require registration via the [CA Secretary of State bizfile system](https://bizfileonline.sos.ca.gov/).
 
 - [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
   - Use the [DE Document Upload Service](https://icis.corp.delaware.gov/ecorp2/) (only available on [weekdays](https://corp.delaware.gov/document-upload-service-information/)) to request a Certificate. [more info](https://corp.delaware.gov/directweb.shtml)
