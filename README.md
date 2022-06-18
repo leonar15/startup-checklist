@@ -40,6 +40,7 @@ Some notes:
 **NOTE:** This section applies to companies that are doing business or have employees in CA - similar requirements apply for other states. Many steps require registration via the [CA Secretary of State bizfile system](https://bizfileonline.sos.ca.gov/).
 
 - [ ] Order certified copy of *Certificate of Good Standing* from DE - **$50**
+  - **June 2022 note:** According to [a contributor's experience](https://github.com/leonar15/startup-checklist/issues/17), DE is expericing a backlog on certificate requests and they suggest an upgrade to *"Same Day"* filing speed
   - Use the [DE Document Upload Service](https://icis.corp.delaware.gov/ecorp2/) (only available on [weekdays](https://corp.delaware.gov/document-upload-service-information/)) to request a Certificate. [more info](https://corp.delaware.gov/directweb.shtml)
   - Or, find [an agent with online access](https://corp.delaware.gov/remoteagts.shtml)
 - [ ] Sign up for Registered agent service in CA **1 yr free**
