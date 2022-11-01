@@ -52,7 +52,7 @@ Some notes:
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-550) - **$25**
-    - eFile [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businesssearch.sos.ca.gov/?filing=corp)
+    - eFile [CA Form SI-550](https://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550_112021.pdf) via [CA Secretary of State website](https://bizfileonline.sos.ca.gov/search/business)
     - *if multiple directors*, also attach [CA Form SI-550A](http://bpd.cdn.sos.ca.gov/corp/pdf/so/si-550a.pdf) if sending by mail
 
 
@@ -88,7 +88,7 @@ Some notes:
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $450**
   -  https://corp.delaware.gov/paytaxes/
 - [ ] *yearly* File CA statement of information **$25**
-  - File [CA Form SI-550](http://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550.pdf) via [CA Secretary of State website](https://businesssearch.sos.ca.gov/?filing=corp)
+  - File [CA Form SI-550](https://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550_112021.pdf) via [CA Secretary of State website](https://bizfileonline.sos.ca.gov/search/business)
 - [ ] *yearly* File CA tax return **>= $800**
   - *Note:* First year loss might waive $800 minimum [[ref]](http://www.taxes.ca.gov/corps.shtml)
   - *Note 2:* COVID-19 Relief Bill waives $800 minimum for companies formed between Jan 1, 2021 and Dec 31, 2023 for first taxable year [[ref]](https://www.nolo.com/legal-updates/california-extends-first-year-800-minimum-franchise-tax-exemption-to-llcs-lps-and-llps.html)
