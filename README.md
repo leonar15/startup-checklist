@@ -70,7 +70,6 @@ Some notes:
   - guide: https://support.waveapps.com/entries/60125574-Social-Security-Business-Services-Online-Registration-Guide
   - form: https://www.ssa.gov/bso/bsowelcome.htm
 
-
 ## Recurring items
 
 - [ ] *varies* File and pay CA payroll taxes
@@ -97,6 +96,11 @@ Some notes:
 - [ ] *yearly* File W3 with IRS
 - [ ] *yearly* Send 1099 to contractors, lawyers, et. al. [(eFile tool)](#tool3)
 
+## Customer-facing documents
+- [ ] Generate a *Terms of Service* [(free document generator)](#free-tool6)
+- [ ] Generate a *Privacy Policy* [(free document generator)](#free-tool6)
+
+
 ## <a name=tools></a>Tools & References
 ### Free or mostly-free tools
 1. <a name=free-tool1></a>[Founder's Workbench](https://www.foundersworkbench.com/toolbox/document-driver) - generate incorporation documents
@@ -104,6 +108,7 @@ Some notes:
 3. <a name=free-tool3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
 4. <a name=free-tool4></a>[Wave](https://www.waveapps.com/) - free accounting software, with extra services for a $fee
 5. <a name=free-tool5></a>[Cooley GO Document Generators](https://www.cooleygo.com/documents/index-document-generators/) - free incorporation package, early-stage financing documents and other common documents needed by startups.
+6. <a name=free-tool6></a> [Termly](https://termly.7zqw8y.net/termly) - free [privacy policy](https://termly.7zqw8y.net/termly-privacy-policy-generator) and [terms of service](https://termly.7zqw8y.net/termly-terms-generator) generators
 
 ### <a name=nonfree-tools></a>Non-free tools
 1. <a name=tool2></a>[Clerky](https://www.clerky.com/offerings#company-formation) - software to handle the complete set of company formation paperwork online (incorporation, appointing directors and officers, issuing stock, protecting IP, etc.)
@@ -121,7 +126,6 @@ Some notes:
 
 ## Known unknowns
 - Sales taxes
-- Generate *Terms of Service*, *Privacy Policy*, etc ([Docracy.com](http://www.docracy.com/) has some good templates)
 - Liability insurance
 - Start using bookkeeping software right away to track expenses, income, etc. Lots of free/affordable options
 
