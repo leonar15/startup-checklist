@@ -84,6 +84,8 @@ Some notes:
   - *(S-corp only)* File [IRS Form 1120S](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120s.pdf))
   - *(C-corp only)* File [IRS Form 1120](https://www.irs.gov/pub/irs-pdf/f1120.pdf) ([instructions](https://www.irs.gov/pub/irs-pdf/i1120.pdf))
   - *(LLC-only)* depends on ownership structure, but partnerships must distribute [IRS Schedule K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf) to each owner
+- [ ] *yearly* File federal unemployment tax (FUTA) return 
+  - File [IRS Form 940](https://www.irs.gov/pub/irs-pdf/f940.pdf) ([instructions](https://www.irs.gov/instructions/i940))
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $450**
   -  https://corp.delaware.gov/paytaxes/
 - [ ] *yearly* File CA statement of information **$25**
