@@ -67,7 +67,7 @@ Some notes:
 - [ ] Register with CA Employment Development Department (CA EDD) as an Employer - **Free**
   - [CA EDD Enrollment](http://www.edd.ca.gov/Payroll_Taxes/e-Services_for_Business.htm)
 - [ ] Sign up with Social Security Business Services - **Free**
-  - guide: https://support.waveapps.com/entries/60125574-Social-Security-Business-Services-Online-Registration-Guide
+  - guide: https://support.waveapps.com/hc/en-us/articles/208623366-Social-security-business-services-online-SS-BSO-registration-guide
   - form: https://www.ssa.gov/bso/bsowelcome.htm
 
 ## Recurring items
