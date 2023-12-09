@@ -1,3 +1,36 @@
+# Considerations before Incorporation:
+**DISCLAIMER:** I'm not an attorney. But I've had a SaaS startup, not a basic website, for several years and we are pivoting. I wrote 2 patents. The first I began to hire an attorney and after losing 15 hours time in useless conversations, I realized I was going to do all the work and pay through the nose for it. Here's my advice.
+
+**CAVEAT** I forked this from its original and will submit a pull req. 
+
+1. Creating a legal entity as a Delaware 'C' Corporation is the "Gold Standard" to investors and for good reason. It protects them and you should you be sued for a software failure or other reason.
+   
+   -Believe that if you create a good product, you will be sued. Someone will see it as an opportunity for money.
+   
+   -Along the way to creating a good product, you will make mistakes and learn. Those mistakes could be opportunities for legal loses.
+   
+   -You will need a legal business to submit apps to app stores unless you can submit them under your name.
+   
+   -Add to your checklist to obtain a DUNNS number. This will help your company build its trust. You will need a legal entity for this.
+   
+   -Its less complicated and less expensive to incorporate rather than become an LLC first and switch later.
+   
+3. Initial incorporation can be fairly inexpensive. Delaware has an incorporation cost calculator at [The Delaware calculator] (https://corp.delaware.gov/fee/). My first company Incorporated by an attorney started with 20 million shares of stock with a minimal par value. I would vest just under half. My cofounder that was non-technical and contributed in a minor role also vested and between us we made up for over half the shares. The rest of the shares would then be used for investors. I would essentially give my shares to anyone else that joined the team. If you can afford it, I highly recommend that you hire an experienced start-up attorney to assist with the complexity. Also, hire your own attorney. At $800 an hour for your company, and $400 - $600 for your personal attorney, this will break your budget if your not funded.
+   
+   -Importantly! Read ALL of your legal documents and boiler plate jargon. Be aware of "traps" in your charter docs that may prevent you from safely taking PTO for any length of time. E.G. the board has the power to elect another officer and they can declare and hold an emergency board meeting before you can return from your PTO.
+   
+5. If your building a basic website, and can deploy fairly quickly, incorporate before you begin to earn an income or before you take on a round of funding.
+6. Attorneys are working in their best interests. Never forget that. 
+7. Patents. Don't wait to patent. There area plenty of examples of patents to follow. This is an additional expense. If you take on a round of funding, your investors may include stipulations about your patent that will reduce your ability to keep it. Writing a patent is not difficult, but it is technical and time consuming. Its far less expensive if your a micro entity. It can be less than $1k. A provisional is just a few hundred dollars as a micro entity and will protect your IP. If you hire an attorney to write the provisional, expect to pay between $4-$10k. You cannot file as a micro entity if it is filed by an attorney. Caveat, read the USPTO's guidelines on this.
+   
+   -If you hold the patent in your name, and your companies tech is based on this, it will be difficult for investors to oust you, and then buy back your stock for the price you paid for it. This is the silicon valley sob story but that's happened to several people I've met. I also sat in on a Y-Combinator conversation between a CFO Coach and his friend while sitting in the YMCA sauna. He literally bragged about how easy it was to take companies away from their founders.
+   
+   -If your technology is more than just a website. Your as safe as it is difficult for someone else to take over what you've done.
+   
+ 9. If your tech takes time to build. Wait until the last minute before you incorporate. Although the initial incorporation may be less than $500. The follow on costs year after year will be more, not less than the initial incorporation fees. If you don't have to file with a state. E.G. your building a SAAS company and most of your workers are remote. Don't! particularly not in CA. CA is $800 a year. Not a lot if your funded, but if your not funded ...
+ 10. Although most ideas never see the light of day. Don't believe the advice that states there is no one else that will attempt to steal your idea. I worked for a large fortune 100 company and that's exactly what they did. They felt no shame in it. Further, if this was the case, Apple and Microsoft wouldn't have sued each-other and Patents wouldn't exist. This is simply a naive fantasy. Or maybe advice from someone who used to work at Google.     
+
+
 # Startup Incorporation Checklist
 #### How to bootstrap a Delaware C-corp (or S-corp) with employee(s) in California
 
