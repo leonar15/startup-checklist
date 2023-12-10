@@ -20,7 +20,9 @@
    - If your technology is more than just a website. Your as safe as it is difficult for someone else to take over what you've done.
  9. If your tech takes time to build. Wait until the last minute before you incorporate. Although the initial incorporation may be less than $500. The follow on costs year after year will be more, not less than the initial incorporation fees. If you don't have to file with a state. E.G. your building a SAAS company and most of your workers are remote. Don't! particularly not in CA. CA is $800 a year. Not a lot if your funded, but if your not funded ...
  10. Although most ideas never see the light of day. Think twice about advice that states there is no one else that will attempt to steal your idea. I worked for a fortune 100 engineering company and that's exactly what some of my counterparts would do if they could. "Good artists copy, Great artists steal" was what one of them told me as we walked out of a meeting. Some felt no shame in it. Further, if this was the case, Apple and Microsoft wouldn't have sued eachother and Patent law wouldn't exist. See 'Pirates of the Silicon Valley'.
- 11. Lastly, there's a saying in vegas that casinio employees say behind closed doors. "Vegas wasn't built on winners". There are more than a few in the silicon valley who say the same thing.  
+ 11. Lastly, there's a saying in vegas that casinio employees say behind closed doors. "Vegas wasn't built on winners". There are more than a few in the silicon valley who say the same thing.
+
+ -The original is below-    
 
 
 # Startup Incorporation Checklist
