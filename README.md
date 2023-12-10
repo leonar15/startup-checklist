@@ -1,5 +1,5 @@
 # Considerations before Incorporation: If your bootstrapping a SaaS company.
-**DISCLAIMER:** I'm not an attorney. But I've had a SaaS startup, not a basic website, for several years and we are pivoting. 
+**DISCLAIMER:** I'm not an attorney. But I'm a founder of a SaaS startup, not a basic website. I've ran the company for several years. Here's my advice. 
 
 **CAVEAT** I forked this from its original. Read below, its great advice. I'm adding my experiance after 4 years in the S.V. 
 
