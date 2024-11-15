@@ -1,3 +1,33 @@
+# Considerations before Incorporation: If your bootstrapping a SaaS company.
+**DISCLAIMER:** I'm not an attorney. I'm a founder of a SaaS startup, not a basic website. I moved to the Silicon Valley and stayed there for 4 years. I saw people from Y-Combinator frequently and occasioally overheard conversations that should have never been discussed. Most people there are great people. But here's my advice. 
+
+**CAVEAT** I forked this from its original. Read below, its great advice. 
+
+1. Before spending money on incorporation and patents etc... Validate your idea in a trusted environment, or using alternate questions that don't reveal your idea directly. Check to see if other people have tried the idea. If they failed find out why. There may be underlying reasons that are not obvious. Ask them directly if possible.
+2. I advise to patent bc if it is a good idea with a blue ocean, no competitors and a large potential. A larger company may go after it. Think of Meta, IG and TicToc. But also consider that patents are expensive and you may be patenting an idea that no one wants. Patents are strategic tools to help you keep your Intellectual Property. Big companies with deep pockets that steal your IP can be sued.
+3. BUT consider that your idea being stolen is not a big reason for failing. Most startups and ideas fail for many other reasons. Validate your idea first with people you don't know.   
+4. Creating a legal entity as a Delaware 'C' Corporation is the "Gold Standard" to investors and for good reason. It protects them and you should you be sued for a software failure or other reason.
+   - Believe that if you create a good product, you will be sued. Someone will see it as an opportunity for money.
+   - Along the way to creating a good product, you will make mistakes and learn. Those mistakes could be opportunities for legal loses.
+   - You will need a legal business to submit apps to app stores unless you can submit them under your name.
+   - Add to your checklist to obtain a DUNNS number. This will help your company build its trust. You will need a legal entity for this.
+   - It's less complicated and less expensive to incorporate rather than become an LLC first and switch later. But that's an alternative.
+   
+5. Initial incorporation can be fairly inexpensive. Delaware has an incorporation cost calculator at [The Delaware calculator] (https://corp.delaware.gov/fee/). My first company Incorporated by an attorney started with 20 million shares of stock with a minimal par value. I would vest just under half. My cofounder that was non-technical and contributed in a minor role also vested and between us we made up for over half the shares. The rest of the shares would then be used for investors. I would essentially give my shares to anyone else that joined the team. If you can afford it, I highly recommend that you hire an experienced start-up attorney to assist with the complexity. Also, hire your own attorney. At $800 an hour for your company, and $400 - $600 for your personal attorney, this will break your budget if your not funded.
+   - Importantly! Read ALL of your legal documents and boiler plate jargon. Be aware of "traps" in your charter docs that may prevent you from safely taking PTO for any length of time. E.G. the board has the power to elect another officer and they can declare and hold an emergency board meeting before you can return from your PTO.
+   
+6. If your building a basic website, and can deploy fairly quickly, incorporate before you begin to earn an income or before you take on a round of funding.
+7. Attorneys are working in their best interests. Never forget that. 
+8. Patents: Don't wait to patent. There area plenty of examples of patents to follow on the USPTO website. Search for something similar to what your doing and use it as the basis for your patent. This may be an additional expense but it protects your hard work from companies with deep pockets. Also, if you wait until you take on a round of funding, sophisticated investors will include stipulations about your patent that will reduce your ability to keep it. Writing a patent is not difficult, but it is technical and time consuming. Its far less expensive when you file as a micro entity. It can be less than $1k for a non-provisional. A provisional can be just a few hundred dollars as a micro entity and will protect your IP for a year. If you hire an attorney to write the provisional, expect to pay between $4-$10k. You cannot file as a micro entity when it is filed by an attorney. Caveat, read the USPTO's guidelines on this.
+   - If you hold the patent in your name, and your company is based on this, your in a safe position from being leveraged. It will be difficult for investors to oust you if you own the IP. This is a silicon valley sob story. It's happened to several people I've met. I also sat in on a Y-Combinator conversation between a "CFO Coach" and his friend while sitting in the Montain View YMCA sauna. He literally boasted about how easy it was to take companies away from their founders.
+   - If your technology is more than just a website. Your as safe as it is difficult for someone else to take over what you've done.
+ 9. If your tech takes time to build. Wait until the last minute before you incorporate. Although the initial incorporation may be less than $500. The follow on costs year after year will be more, not less than the initial incorporation fees. If you don't have to file with a state. E.G. your building a SAAS company and most of your workers are remote. Don't! particularly not in CA. CA is $800 a year. Not a lot if your funded, but if your not funded ...
+ 10. Although most ideas never see the light of day. Think twice about advice that states there is no one else that will attempt to steal your idea. I worked for a fortune 100 engineering company and that's exactly what some of my counterparts would do if they could. "Good artists copy, Great artists steal" was what one of them told me as we walked out of a meeting. Some felt no shame in it. Further, if this was the case, Apple and Microsoft wouldn't have sued eachother and Patent law wouldn't exist. See 'Pirates of the Silicon Valley'.
+ 11. Lastly, there's a saying in vegas that casinio employees say behind closed doors. "Vegas wasn't built on winners". There are more than a few in the silicon valley who say the same thing.
+
+ -The original is below-    
+
+
 # Startup Incorporation Checklist
 #### How to bootstrap a Delaware C-corp (or S-corp) with employee(s) in California
 
