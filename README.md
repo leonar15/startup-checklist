@@ -46,9 +46,9 @@ Some notes:
 - [ ] Sign up for Registered agent service in CA **1 yr free**
 - [ ] Sign up for an account with the CA bizfile system. [bizfile registration form](https://idm.sos.ca.gov/signin/register) **free**
 - [ ] Register your *foreign entity* with CA Secretary of State - **$100**
-  - Fill out and eFile [Registration - Out-of-State Corporation - Stock](https://bizfileonline.sos.ca.gov/forms/business) **OR** mail [CA form S&DC - S/N](http://bpd.cdn.sos.ca.gov/corp/pdf/foreign/s&dc-sn.pdf)
+  - Fill out and eFile [Registration - Out-of-State Corporation - Stock](https://bizfileonline.sos.ca.gov/forms/business) [Form info](https://www.sos.ca.gov/business-programs/business-entities/forms/corporations-foreign-out-state-or-out-country) **Online-only** 
   - Make sure **NOT** to include mailing address for registered agent
-  - Include *DE Certificate of Good Standing* with mailed form
+  - Include *DE Certificate of Good Standing* with form
 - [ ] *(optional for solo founders)* Exclude yourself from paying SDI taxes 
   - [CA form DE459](http://www.edd.ca.gov/pdf_pub_ctr/de459.pdf)
 - [ ] Within 90 days of CA registration, file Statement of Information (SI-550) - **$25**
@@ -66,6 +66,7 @@ Some notes:
   - Confirm enrollment via [EFTPS login form](https://www.eftps.gov/eftps/login/loginInitial)
 - [ ] Register with CA Employment Development Department (CA EDD) as an Employer - **Free**
   - [CA EDD Enrollment](http://www.edd.ca.gov/Payroll_Taxes/e-Services_for_Business.htm)
+  - *Note*: Must login at least every 6 months or account is closed. If you cannot login with prior credentials just register a new account.
 - [ ] Sign up with Social Security Business Services - **Free**
   - guide: https://support.waveapps.com/hc/en-us/articles/208623366-Social-security-business-services-online-SS-BSO-registration-guide
   - form: https://www.ssa.gov/bso/bsowelcome.htm
@@ -89,7 +90,7 @@ Some notes:
 - [ ] *yearly* File DE annual report and pay franchise tax **>= $450**
   -  https://corp.delaware.gov/paytaxes/
 - [ ] *yearly* File CA statement of information **$25**
-  - File [CA Form SI-550](https://bpd.cdn.sos.ca.gov/corp/pdf/so/corp_so550_112021.pdf) via [CA Secretary of State website](https://bizfileonline.sos.ca.gov/search/business)
+  - File [CA Form SI-550](https://www.sos.ca.gov/business-programs/business-entities/forms/corporations-statement-information) via [CA Secretary of State website](https://bizfileonline.sos.ca.gov/search/business)
 - [ ] *yearly* File CA tax return **>= $800**
   - *Note:* First year loss might waive $800 minimum [[ref]](https://www.taxes.ca.gov/corps.html)
   - *Note 2:* COVID-19 Relief Bill waives $800 minimum for companies formed between Jan 1, 2021 and Dec 31, 2023 for first taxable year [[ref]](https://www.nolo.com/legal-updates/california-extends-first-year-800-minimum-franchise-tax-exemption-to-llcs-lps-and-llps.html)
